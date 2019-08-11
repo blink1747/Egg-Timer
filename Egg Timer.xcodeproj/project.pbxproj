@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		886171B722FE00E900DFA797 /* ttViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886171B622FE00E900DFA797 /* ttViewController.swift */; };
 		8866FB6822FDDD040035ACE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866FB6722FDDD040035ACE3 /* AppDelegate.swift */; };
 		8866FB6A22FDDD040035ACE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866FB6922FDDD040035ACE3 /* ViewController.swift */; };
 		8866FB6D22FDDD040035ACE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8866FB6B22FDDD040035ACE3 /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		886171B622FE00E900DFA797 /* ttViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ttViewController.swift; sourceTree = "<group>"; };
 		8866FB6422FDDD040035ACE3 /* Egg Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Egg Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8866FB6722FDDD040035ACE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8866FB6922FDDD040035ACE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 				8866FB6722FDDD040035ACE3 /* AppDelegate.swift */,
 				8866FB6922FDDD040035ACE3 /* ViewController.swift */,
 				8866FB6B22FDDD040035ACE3 /* Main.storyboard */,
-				886171B622FE00E900DFA797 /* ttViewController.swift */,
 				8866FB6E22FDDD060035ACE3 /* Assets.xcassets */,
 				8866FB7022FDDD060035ACE3 /* LaunchScreen.storyboard */,
 				8866FB7322FDDD060035ACE3 /* Info.plist */,
@@ -140,7 +137,6 @@
 			files = (
 				8866FB6A22FDDD040035ACE3 /* ViewController.swift in Sources */,
 				8866FB6822FDDD040035ACE3 /* AppDelegate.swift in Sources */,
-				886171B722FE00E900DFA797 /* ttViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
